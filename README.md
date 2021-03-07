@@ -1,3 +1,3 @@
 # Queue-Todo
 
-This is Todo Program. But Queue 形態
+이것은 Todo プログラム입니다. But Queue 形態
